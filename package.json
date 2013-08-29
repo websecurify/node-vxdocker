@@ -1,6 +1,6 @@
 {
 	"name": "vxdocker",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Websecurify <contact@websecurify.com>",
 	"description": "Vortex Docker - seamless integration between Vortex and Docker on any platform.",
 	"license": "MIT",
