@@ -1,0 +1,35 @@
+{
+	"name": "vxdocker",
+	"version": "0.0.1",
+	"author": "Websecurify <contact@websecurify.com>",
+	"description": "Vortex Docker - seamless integration between Vortex and Docker on any platform.",
+	"license": "MIT",
+	
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/websecurify/node-vxdocker.git"
+	},
+	
+	"keywords": [
+		"vortex",
+		"docker"
+	],
+	
+	"main": "./lib/index.js",
+	
+	"bin": {
+		"vxdocker": "./bin/vxdocker"
+	},
+	
+	"directories": {
+		"conf": "./conf/",
+		"lib": "./lib/"
+	},
+	
+	"dependencies": {
+		"portchecker": "0.1.2",
+		
+		"logsmith": "latest",
+		"vortex": "latest"
+	}
+}
