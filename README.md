@@ -8,7 +8,7 @@
 	  
 # Introduction
 
-VxDocker is a [Vortex](http://www.websecurify.com/extra/vortex.html) wrapper for [Docker](http://www.docker.io/). The purpose of VxDocker is to make seamless integration between docker and operating systems, which do not support LXS containers such as Windows and Mac OS.
+VxDocker is a [Vortex](http://www.websecurify.com/extra/vortex.html) wrapper for [Docker](http://www.docker.io/). The purpose of VxDocker is to make seamless integration between docker and operating systems, which do not support LXC containers such as Windows and Mac OS.
 
 # Installation
 
